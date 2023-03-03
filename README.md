@@ -1,2 +1,2 @@
 # time-stretch
-implement time stretching algorithm for audio without pitch shifting
+time stretching algorithm for audio without pitch shifting
