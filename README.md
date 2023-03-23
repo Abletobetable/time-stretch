@@ -6,9 +6,7 @@ time stretching algorithm for audio without pitch shifting
 
 2. cd time-stretch
 
-3. unzip solution.zip
-
-4. cd solution && ./run.sh "<input_path>.wav" "<output_path>.wav" <time_stretching_rate>
+4. ./run.sh "<input_path>.wav" "<output_path>.wav" <time_stretching_rate>
 
 0 < time_stretching_rate < 1 - squeeze
 
